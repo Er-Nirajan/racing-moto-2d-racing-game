@@ -1,11 +1,17 @@
 2D-Racing-Game
 ==============
 
-Project title	Racing Moto
-Language	C++ 
-IDE	Turbo C++ 
-Total team members	1
-My role	Software Developer
+Project title:	Racing Moto
+
+Language:	C++ 
+
+IDE:	Turbo C++ 
+
+Total team members:	1
+
+My role:	Software Developer
+
+
 
 
 DESCRIPTION:
